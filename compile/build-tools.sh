@@ -221,6 +221,7 @@ run_packages() {
         "modemband|https://api.github.com/repos/4IceG/luci-app-modemband/releases/latest"
         "luci-app-modemband|https://api.github.com/repos/4IceG/luci-app-modemband/releases/latest"
         "luci-app-netmonitor|https://api.github.com/repos/syntax-xidz/luci-app-netmonitor/releases/latest"
+        "luci-app-ttl|https://api.github.com/repos/de-quenx/custom-x/releases/latest"
     )
     
     if [[ "${TYPE:-}" == "OPHUB" || "${TYPE:-}" == "ULO" ]]; then 
@@ -249,7 +250,6 @@ run_packages() {
         "ookla-speedtest|${REPOS[KIDDIN9]}"
         "luci-app-eqosplus|${REPOS[KIDDIN9]}"
         "luci-app-ipinfo|https://api.github.com/repos/bobbyunknown/luci-app-ipinfo/releases/latest"
-        "luci-app-ttl|https://api.github.com/repos/de-quenx/custom-x/releases/latest"
     )
 
     log "INFO" "download core packages"
@@ -456,8 +456,8 @@ run_makeimage() {
     PACKAGES+=" kmod-usb-net-rtl8150 kmod-usb-net-rtl8152 kmod-usb-net-asix kmod-usb-net-asix-ax88179 kmod-mii kmod-usb-net kmod-usb-wdm kmod-usb-net-rndis \
     kmod-usb-net-cdc-ether kmod-usb-net-cdc-ncm kmod-usb-net-sierrawireless kmod-usb-net-qmi-wwan kmod-usb-acm kmod-usb-net-huawei-cdc-ncm kmod-usb-net-cdc-mbim \
     kmod-usb-serial kmod-usb-serial-option kmod-usb-serial-wwan kmod-usb-serial-qualcomm kmod-usb-serial-sierrawireless modemmanager luci-proto-modemmanager \
-    qmi-utils mbim-utils uqmi umbim luci-proto-ncm kmod-usb-ohci kmod-usb-uhci \
-    kmod-usb2 kmod-usb-ehci kmod-usb3 kmod-nls-utf8 usbutils usb-modeswitch kmod-macvlan${XMM_PKGS}"
+    qmi-utils mbim-utils uqmi umbim usbutils usb-modeswitch luci-proto-ncm kmod-usb-ohci \
+    kmod-usb-uhci kmod-usb2 kmod-usb-ehci kmod-usb3 kmod-nls-utf8 kmod-macvlan${XMM_PKGS}"
     
     # wireless drivers
     if [[ "$current_branch" != "dev" ]]; then
@@ -476,12 +476,13 @@ run_makeimage() {
     modeminfo-serial-dell modeminfo-serial-fibocom modeminfo-serial-sierra modeminfo-serial-tw modeminfo-serial-xmm \
     internet-detector internet-detector-mod-modem-restart luci-app-internet-detector netdata vnstat2 vnstati2 luci-app-netmonitor \
     php8 php8-cli php8-fastcgi php8-fpm php8-mod-session php8-mod-ctype php8-mod-fileinfo \
-    php8-mod-zip php8-mod-iconv php8-mod-mbstring luci-app-tinyfm luci-app-ramfree ttyd luci-app-ttyd luci-theme-luxe luci-theme-argon "
+    php8-mod-zip php8-mod-iconv php8-mod-mbstring luci-app-tinyfm luci-app-ramfree \
+    ttyd luci-app-ttyd luci-app-ttl luci-theme-luxe luci-theme-argon "
     
     if [[ "${VEROP:-}" == "23.05" || "${VEROP:-}" == "24.10" ]]; then
         # OS 23.05 | 24.10 custom packages
         PACKAGES+=" atc-fib-l8x0_gl atc-fib-fm350_gl luci-proto-atc tailscale luci-app-tailscale ookla-speedtest \
-        luci-app-ipinfo luci-app-eqosplus luci-app-ttl luci-app-poweroffdevice "
+        luci-app-ipinfo luci-app-eqosplus luci-app-poweroffdevice "
     else
         # OS 25.12 ATC packages
         PACKAGES+=" atc-fib-l8x0_gl luci-proto-atc "
