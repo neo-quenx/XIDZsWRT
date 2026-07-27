@@ -192,7 +192,7 @@ immortalwrt:23.05.7 - opt-devices-ophub - no-tunnel ]
 
 # Dashboard Main Scheduler
 main [
-openwrt_25.12.5_official 00:30 28/07/2026
+openwrt_25.12.5_official 18:46 27/07/2026
 openwrt_25.12.5_ulo 12:30 28/07/2026
 openwrt_25.12.5_ophub 00:30 29/07/2026
 openwrt_25.12.5_opt_ophub 12:30 29/07/2026
