@@ -1,0 +1,191 @@
+openwrt_25.12.5_official [
+16:00 27/07/2026
+openwrt:25.12.5 - all-devices-official - openclash
+openwrt:25.12.5 - all-devices-official - openclash-nikki
+openwrt:25.12.5 - all-devices-official - openclash-fusiontunx
+openwrt:25.12.5 - all-devices-official - openclash-nikki-passwall
+openwrt:25.12.5 - all-devices-official - no-tunnel ]
+
+openwrt_25.12.5_ulo [
+04:00 28/07/2026
+openwrt:25.12.5 - all-devices-ulo - openclash
+openwrt:25.12.5 - all-devices-ulo - openclash-nikki
+openwrt:25.12.5 - all-devices-ulo - openclash-fusiontunx
+openwrt:25.12.5 - all-devices-ulo - openclash-nikki-passwall
+openwrt:25.12.5 - all-devices-ulo - no-tunnel ]
+
+openwrt_25.12.5_ophub [
+16:00 28/07/2026
+openwrt:25.12.5 - all-devices-ophub - openclash
+openwrt:25.12.5 - all-devices-ophub - openclash-nikki
+openwrt:25.12.5 - all-devices-ophub - openclash-fusiontunx
+openwrt:25.12.5 - all-devices-ophub - openclash-nikki-passwall
+openwrt:25.12.5 - all-devices-ophub - no-tunnel ]
+
+openwrt_25.12.5_opt_ophub [
+04:00 29/07/2026
+openwrt:25.12.5 - opt-devices-ophub - openclash
+openwrt:25.12.5 - opt-devices-ophub - openclash-nikki
+openwrt:25.12.5 - opt-devices-ophub - openclash-fusiontunx
+openwrt:25.12.5 - opt-devices-ophub - openclash-nikki-passwall
+openwrt:25.12.5 - opt-devices-ophub - no-tunnel ]
+
+# openwrt_24.10.8_official [
+16:00 29/07/2026
+openwrt:24.10.8 - all-devices-official - openclash
+openwrt:24.10.8 - all-devices-official - openclash-nikki
+openwrt:24.10.8 - all-devices-official - openclash-fusiontunx
+openwrt:24.10.8 - all-devices-official - openclash-nikki-passwall
+openwrt:24.10.8 - all-devices-official - no-tunnel ]
+
+# openwrt_24.10.8_ulo [
+04:00 30/07/2026
+openwrt:24.10.8 - all-devices-ulo - openclash
+openwrt:24.10.8 - all-devices-ulo - openclash-nikki
+openwrt:24.10.8 - all-devices-ulo - openclash-fusiontunx
+openwrt:24.10.8 - all-devices-ulo - openclash-nikki-passwall
+openwrt:24.10.8 - all-devices-ulo - no-tunnel ]
+
+# openwrt_24.10.8_ophub [
+16:00 30/07/2026
+openwrt:24.10.8 - all-devices-ophub - openclash
+openwrt:24.10.8 - all-devices-ophub - openclash-nikki
+openwrt:24.10.8 - all-devices-ophub - openclash-fusiontunx
+openwrt:24.10.8 - all-devices-ophub - openclash-nikki-passwall
+openwrt:24.10.8 - all-devices-ophub - no-tunnel ]
+
+# openwrt_24.10.8_opt_ophub [
+04:00 31/07/2026
+openwrt:24.10.8 - opt-devices-ophub - openclash
+openwrt:24.10.8 - opt-devices-ophub - openclash-nikki
+openwrt:24.10.8 - opt-devices-ophub - openclash-fusiontunx
+openwrt:24.10.8 - opt-devices-ophub - openclash-nikki-passwall
+openwrt:24.10.8 - opt-devices-ophub - no-tunnel ]
+
+# openwrt_23.05.6_official [
+16:00 31/07/2026
+openwrt:23.05.6 - all-devices-official - openclash
+openwrt:23.05.6 - all-devices-official - openclash-nikki
+openwrt:23.05.6 - all-devices-official - openclash-fusiontunx
+openwrt:23.05.6 - all-devices-official - openclash-nikki-passwall
+openwrt:23.05.6 - all-devices-official - no-tunnel ]
+
+# openwrt_23.05.6_ulo [
+04:00 01/08/2026
+openwrt:23.05.6 - all-devices-ulo - openclash
+openwrt:23.05.6 - all-devices-ulo - openclash-nikki
+openwrt:23.05.6 - all-devices-ulo - openclash-fusiontunx
+openwrt:23.05.6 - all-devices-ulo - openclash-nikki-passwall
+openwrt:23.05.6 - all-devices-ulo - no-tunnel ]
+
+# openwrt_23.05.6_ophub [
+16:00 01/08/2026
+openwrt:23.05.6 - all-devices-ophub - openclash
+openwrt:23.05.6 - all-devices-ophub - openclash-nikki
+openwrt:23.05.6 - all-devices-ophub - openclash-fusiontunx
+openwrt:23.05.6 - all-devices-ophub - openclash-nikki-passwall
+openwrt:23.05.6 - all-devices-ophub - no-tunnel ]
+
+# openwrt_23.05.6_opt_ophub [
+04:00 02/08/2026
+openwrt:23.05.6 - opt-devices-ophub - openclash
+openwrt:23.05.6 - opt-devices-ophub - openclash-nikki
+openwrt:23.05.6 - opt-devices-ophub - openclash-fusiontunx
+openwrt:23.05.6 - opt-devices-ophub - openclash-nikki-passwall
+openwrt:23.05.6 - opt-devices-ophub - no-tunnel ]
+
+# immortalwrt_25.12.1_official [
+16:00 02/08/2026
+immortalwrt:25.12.1 - all-devices-official - openclash
+immortalwrt:25.12.1 - all-devices-official - openclash-nikki
+immortalwrt:25.12.1 - all-devices-official - openclash-fusiontunx
+immortalwrt:25.12.1 - all-devices-official - openclash-nikki-passwall
+immortalwrt:25.12.1 - all-devices-official - no-tunnel ]
+
+# immortalwrt_25.12.1_ulo [
+04:00 03/08/2026
+immortalwrt:25.12.1 - all-devices-ulo - openclash
+immortalwrt:25.12.1 - all-devices-ulo - openclash-nikki
+immortalwrt:25.12.1 - all-devices-ulo - openclash-fusiontunx
+immortalwrt:25.12.1 - all-devices-ulo - openclash-nikki-passwall
+immortalwrt:25.12.1 - all-devices-ulo - no-tunnel ]
+
+# immortalwrt_25.12.1_ophub [
+16:00 03/08/2026
+immortalwrt:25.12.1 - all-devices-ophub - openclash
+immortalwrt:25.12.1 - all-devices-ophub - openclash-nikki
+immortalwrt:25.12.1 - all-devices-ophub - openclash-fusiontunx
+immortalwrt:25.12.1 - all-devices-ophub - openclash-nikki-passwall
+immortalwrt:25.12.1 - all-devices-ophub - no-tunnel ]
+
+# immortalwrt_25.12.1_opt_ophub [
+04:00 04/08/2026
+immortalwrt:25.12.1 - opt-devices-ophub - openclash
+immortalwrt:25.12.1 - opt-devices-ophub - openclash-nikki
+immortalwrt:25.12.1 - opt-devices-ophub - openclash-fusiontunx
+immortalwrt:25.12.1 - opt-devices-ophub - openclash-nikki-passwall
+immortalwrt:25.12.1 - opt-devices-ophub - no-tunnel ]
+
+# immortalwrt_24.10.6_official [
+16:00 04/08/2026
+immortalwrt:24.10.6 - all-devices-official - openclash
+immortalwrt:24.10.6 - all-devices-official - openclash-nikki
+immortalwrt:24.10.6 - all-devices-official - openclash-fusiontunx
+immortalwrt:24.10.6 - all-devices-official - openclash-nikki-passwall
+immortalwrt:24.10.6 - all-devices-official - no-tunnel ]
+
+# immortalwrt_24.10.6_ulo [
+04:00 05/08/2026
+immortalwrt:24.10.6 - all-devices-ulo - openclash
+immortalwrt:24.10.6 - all-devices-ulo - openclash-nikki
+immortalwrt:24.10.6 - all-devices-ulo - openclash-fusiontunx
+immortalwrt:24.10.6 - all-devices-ulo - openclash-nikki-passwall
+immortalwrt:24.10.6 - all-devices-ulo - no-tunnel ]
+
+# immortalwrt_24.10.6_ophub [
+16:00 05/08/2026
+immortalwrt:24.10.6 - all-devices-ophub - openclash
+immortalwrt:24.10.6 - all-devices-ophub - openclash-nikki
+immortalwrt:24.10.6 - all-devices-ophub - openclash-fusiontunx
+immortalwrt:24.10.6 - all-devices-ophub - openclash-nikki-passwall
+immortalwrt:24.10.6 - all-devices-ophub - no-tunnel ]
+
+# immortalwrt_24.10.6_opt_ophub [
+04:00 06/08/2026
+immortalwrt:24.10.6 - opt-devices-ophub - openclash
+immortalwrt:24.10.6 - opt-devices-ophub - openclash-nikki
+immortalwrt:24.10.6 - opt-devices-ophub - openclash-fusiontunx
+immortalwrt:24.10.6 - opt-devices-ophub - openclash-nikki-passwall
+immortalwrt:24.10.6 - opt-devices-ophub - no-tunnel ]
+
+# immortalwrt_23.05.7_official [
+16:00 06/08/2026
+immortalwrt:23.05.7 - all-devices-official - openclash
+immortalwrt:23.05.7 - all-devices-official - openclash-nikki
+immortalwrt:23.05.7 - all-devices-official - openclash-fusiontunx
+immortalwrt:23.05.7 - all-devices-official - openclash-nikki-passwall
+immortalwrt:23.05.7 - all-devices-official - no-tunnel ]
+
+# immortalwrt_23.05.7_ulo [
+04:00 07/08/2026
+immortalwrt:23.05.7 - all-devices-ulo - openclash
+immortalwrt:23.05.7 - all-devices-ulo - openclash-nikki
+immortalwrt:23.05.7 - all-devices-ulo - openclash-fusiontunx
+immortalwrt:23.05.7 - all-devices-ulo - openclash-nikki-passwall
+immortalwrt:23.05.7 - all-devices-ulo - no-tunnel ]
+
+# immortalwrt_23.05.7_ophub [
+16:00 07/08/2026
+immortalwrt:23.05.7 - all-devices-ophub - openclash
+immortalwrt:23.05.7 - all-devices-ophub - openclash-nikki
+immortalwrt:23.05.7 - all-devices-ophub - openclash-fusiontunx
+immortalwrt:23.05.7 - all-devices-ophub - openclash-nikki-passwall
+immortalwrt:23.05.7 - all-devices-ophub - no-tunnel ]
+
+immortalwrt_23.05.7_opt_ophub [
+04:00 08/08/2026
+immortalwrt:23.05.7 - opt-devices-ophub - openclash
+immortalwrt:23.05.7 - opt-devices-ophub - openclash-nikki
+immortalwrt:23.05.7 - opt-devices-ophub - openclash-fusiontunx
+immortalwrt:23.05.7 - opt-devices-ophub - openclash-nikki-passwall
+immortalwrt:23.05.7 - opt-devices-ophub - no-tunnel ]
