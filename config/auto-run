@@ -1,191 +1,219 @@
+# OpenWrt 25.12.5 Official
 openwrt_25.12.5_official [
-16:00 27/07/2026
 openwrt:25.12.5 - all-devices-official - openclash
 openwrt:25.12.5 - all-devices-official - openclash-nikki
 openwrt:25.12.5 - all-devices-official - openclash-fusiontunx
 openwrt:25.12.5 - all-devices-official - openclash-nikki-passwall
 openwrt:25.12.5 - all-devices-official - no-tunnel ]
 
+# OpenWrt 25.12.5 ULO
 openwrt_25.12.5_ulo [
-04:00 28/07/2026
 openwrt:25.12.5 - all-devices-ulo - openclash
 openwrt:25.12.5 - all-devices-ulo - openclash-nikki
 openwrt:25.12.5 - all-devices-ulo - openclash-fusiontunx
 openwrt:25.12.5 - all-devices-ulo - openclash-nikki-passwall
 openwrt:25.12.5 - all-devices-ulo - no-tunnel ]
 
+# OpenWrt 25.12.5 OpHub
 openwrt_25.12.5_ophub [
-16:00 28/07/2026
 openwrt:25.12.5 - all-devices-ophub - openclash
 openwrt:25.12.5 - all-devices-ophub - openclash-nikki
 openwrt:25.12.5 - all-devices-ophub - openclash-fusiontunx
 openwrt:25.12.5 - all-devices-ophub - openclash-nikki-passwall
 openwrt:25.12.5 - all-devices-ophub - no-tunnel ]
 
+# OpenWrt 25.12.5 Opt OpHub
 openwrt_25.12.5_opt_ophub [
-04:00 29/07/2026
 openwrt:25.12.5 - opt-devices-ophub - openclash
 openwrt:25.12.5 - opt-devices-ophub - openclash-nikki
 openwrt:25.12.5 - opt-devices-ophub - openclash-fusiontunx
 openwrt:25.12.5 - opt-devices-ophub - openclash-nikki-passwall
 openwrt:25.12.5 - opt-devices-ophub - no-tunnel ]
 
-# openwrt_24.10.8_official [
-16:00 29/07/2026
+# OpenWrt 24.10.8 Official
+openwrt_24.10.8_official [
 openwrt:24.10.8 - all-devices-official - openclash
 openwrt:24.10.8 - all-devices-official - openclash-nikki
 openwrt:24.10.8 - all-devices-official - openclash-fusiontunx
 openwrt:24.10.8 - all-devices-official - openclash-nikki-passwall
 openwrt:24.10.8 - all-devices-official - no-tunnel ]
 
-# openwrt_24.10.8_ulo [
-04:00 30/07/2026
+# OpenWrt 24.10.8 ULO
+openwrt_24.10.8_ulo [
 openwrt:24.10.8 - all-devices-ulo - openclash
 openwrt:24.10.8 - all-devices-ulo - openclash-nikki
 openwrt:24.10.8 - all-devices-ulo - openclash-fusiontunx
 openwrt:24.10.8 - all-devices-ulo - openclash-nikki-passwall
 openwrt:24.10.8 - all-devices-ulo - no-tunnel ]
 
-# openwrt_24.10.8_ophub [
-16:00 30/07/2026
+# OpenWrt 24.10.8 OpHub
+openwrt_24.10.8_ophub [
 openwrt:24.10.8 - all-devices-ophub - openclash
 openwrt:24.10.8 - all-devices-ophub - openclash-nikki
 openwrt:24.10.8 - all-devices-ophub - openclash-fusiontunx
 openwrt:24.10.8 - all-devices-ophub - openclash-nikki-passwall
 openwrt:24.10.8 - all-devices-ophub - no-tunnel ]
 
-# openwrt_24.10.8_opt_ophub [
-04:00 31/07/2026
+# OpenWrt 24.10.8 Opt OpHub
+openwrt_24.10.8_opt_ophub [
 openwrt:24.10.8 - opt-devices-ophub - openclash
 openwrt:24.10.8 - opt-devices-ophub - openclash-nikki
 openwrt:24.10.8 - opt-devices-ophub - openclash-fusiontunx
 openwrt:24.10.8 - opt-devices-ophub - openclash-nikki-passwall
 openwrt:24.10.8 - opt-devices-ophub - no-tunnel ]
 
-# openwrt_23.05.6_official [
-16:00 31/07/2026
+# OpenWrt 23.05.6 Official
+openwrt_23.05.6_official [
 openwrt:23.05.6 - all-devices-official - openclash
 openwrt:23.05.6 - all-devices-official - openclash-nikki
 openwrt:23.05.6 - all-devices-official - openclash-fusiontunx
 openwrt:23.05.6 - all-devices-official - openclash-nikki-passwall
 openwrt:23.05.6 - all-devices-official - no-tunnel ]
 
-# openwrt_23.05.6_ulo [
-04:00 01/08/2026
+# OpenWrt 23.05.6 ULO
+openwrt_23.05.6_ulo [
 openwrt:23.05.6 - all-devices-ulo - openclash
 openwrt:23.05.6 - all-devices-ulo - openclash-nikki
 openwrt:23.05.6 - all-devices-ulo - openclash-fusiontunx
 openwrt:23.05.6 - all-devices-ulo - openclash-nikki-passwall
 openwrt:23.05.6 - all-devices-ulo - no-tunnel ]
 
-# openwrt_23.05.6_ophub [
-16:00 01/08/2026
+# OpenWrt 23.05.6 OpHub
+openwrt_23.05.6_ophub [
 openwrt:23.05.6 - all-devices-ophub - openclash
 openwrt:23.05.6 - all-devices-ophub - openclash-nikki
 openwrt:23.05.6 - all-devices-ophub - openclash-fusiontunx
 openwrt:23.05.6 - all-devices-ophub - openclash-nikki-passwall
 openwrt:23.05.6 - all-devices-ophub - no-tunnel ]
 
-# openwrt_23.05.6_opt_ophub [
-04:00 02/08/2026
+# OpenWrt 23.05.6 Opt OpHub
+openwrt_23.05.6_opt_ophub [
 openwrt:23.05.6 - opt-devices-ophub - openclash
 openwrt:23.05.6 - opt-devices-ophub - openclash-nikki
 openwrt:23.05.6 - opt-devices-ophub - openclash-fusiontunx
 openwrt:23.05.6 - opt-devices-ophub - openclash-nikki-passwall
 openwrt:23.05.6 - opt-devices-ophub - no-tunnel ]
 
-# immortalwrt_25.12.1_official [
-16:00 02/08/2026
+# ImmortalWrt 25.12.1 Official
+immortalwrt_25.12.1_official [
 immortalwrt:25.12.1 - all-devices-official - openclash
 immortalwrt:25.12.1 - all-devices-official - openclash-nikki
 immortalwrt:25.12.1 - all-devices-official - openclash-fusiontunx
 immortalwrt:25.12.1 - all-devices-official - openclash-nikki-passwall
 immortalwrt:25.12.1 - all-devices-official - no-tunnel ]
 
-# immortalwrt_25.12.1_ulo [
-04:00 03/08/2026
+# ImmortalWrt 25.12.1 ULO
+immortalwrt_25.12.1_ulo [
 immortalwrt:25.12.1 - all-devices-ulo - openclash
 immortalwrt:25.12.1 - all-devices-ulo - openclash-nikki
 immortalwrt:25.12.1 - all-devices-ulo - openclash-fusiontunx
 immortalwrt:25.12.1 - all-devices-ulo - openclash-nikki-passwall
 immortalwrt:25.12.1 - all-devices-ulo - no-tunnel ]
 
-# immortalwrt_25.12.1_ophub [
-16:00 03/08/2026
+# ImmortalWrt 25.12.1 OpHub
+immortalwrt_25.12.1_ophub [
 immortalwrt:25.12.1 - all-devices-ophub - openclash
 immortalwrt:25.12.1 - all-devices-ophub - openclash-nikki
 immortalwrt:25.12.1 - all-devices-ophub - openclash-fusiontunx
 immortalwrt:25.12.1 - all-devices-ophub - openclash-nikki-passwall
 immortalwrt:25.12.1 - all-devices-ophub - no-tunnel ]
 
-# immortalwrt_25.12.1_opt_ophub [
-04:00 04/08/2026
+# ImmortalWrt 25.12.1 Opt OpHub
+immortalwrt_25.12.1_opt_ophub [
 immortalwrt:25.12.1 - opt-devices-ophub - openclash
 immortalwrt:25.12.1 - opt-devices-ophub - openclash-nikki
 immortalwrt:25.12.1 - opt-devices-ophub - openclash-fusiontunx
 immortalwrt:25.12.1 - opt-devices-ophub - openclash-nikki-passwall
 immortalwrt:25.12.1 - opt-devices-ophub - no-tunnel ]
 
-# immortalwrt_24.10.6_official [
-16:00 04/08/2026
+# ImmortalWrt 24.10.6 Official
+immortalwrt_24.10.6_official [
 immortalwrt:24.10.6 - all-devices-official - openclash
 immortalwrt:24.10.6 - all-devices-official - openclash-nikki
 immortalwrt:24.10.6 - all-devices-official - openclash-fusiontunx
 immortalwrt:24.10.6 - all-devices-official - openclash-nikki-passwall
 immortalwrt:24.10.6 - all-devices-official - no-tunnel ]
 
-# immortalwrt_24.10.6_ulo [
-04:00 05/08/2026
+# ImmortalWrt 24.10.6 ULO
+immortalwrt_24.10.6_ulo [
 immortalwrt:24.10.6 - all-devices-ulo - openclash
 immortalwrt:24.10.6 - all-devices-ulo - openclash-nikki
 immortalwrt:24.10.6 - all-devices-ulo - openclash-fusiontunx
 immortalwrt:24.10.6 - all-devices-ulo - openclash-nikki-passwall
 immortalwrt:24.10.6 - all-devices-ulo - no-tunnel ]
 
-# immortalwrt_24.10.6_ophub [
-16:00 05/08/2026
+# ImmortalWrt 24.10.6 OpHub
+immortalwrt_24.10.6_ophub [
 immortalwrt:24.10.6 - all-devices-ophub - openclash
 immortalwrt:24.10.6 - all-devices-ophub - openclash-nikki
 immortalwrt:24.10.6 - all-devices-ophub - openclash-fusiontunx
 immortalwrt:24.10.6 - all-devices-ophub - openclash-nikki-passwall
 immortalwrt:24.10.6 - all-devices-ophub - no-tunnel ]
 
-# immortalwrt_24.10.6_opt_ophub [
-04:00 06/08/2026
+# ImmortalWrt 24.10.6 Opt OpHub
+immortalwrt_24.10.6_opt_ophub [
 immortalwrt:24.10.6 - opt-devices-ophub - openclash
 immortalwrt:24.10.6 - opt-devices-ophub - openclash-nikki
 immortalwrt:24.10.6 - opt-devices-ophub - openclash-fusiontunx
 immortalwrt:24.10.6 - opt-devices-ophub - openclash-nikki-passwall
 immortalwrt:24.10.6 - opt-devices-ophub - no-tunnel ]
 
-# immortalwrt_23.05.7_official [
-16:00 06/08/2026
+# ImmortalWrt 23.05.7 Official
+immortalwrt_23.05.7_official [
 immortalwrt:23.05.7 - all-devices-official - openclash
 immortalwrt:23.05.7 - all-devices-official - openclash-nikki
 immortalwrt:23.05.7 - all-devices-official - openclash-fusiontunx
 immortalwrt:23.05.7 - all-devices-official - openclash-nikki-passwall
 immortalwrt:23.05.7 - all-devices-official - no-tunnel ]
 
-# immortalwrt_23.05.7_ulo [
-04:00 07/08/2026
+# ImmortalWrt 23.05.7 ULO
+immortalwrt_23.05.7_ulo [
 immortalwrt:23.05.7 - all-devices-ulo - openclash
 immortalwrt:23.05.7 - all-devices-ulo - openclash-nikki
 immortalwrt:23.05.7 - all-devices-ulo - openclash-fusiontunx
 immortalwrt:23.05.7 - all-devices-ulo - openclash-nikki-passwall
 immortalwrt:23.05.7 - all-devices-ulo - no-tunnel ]
 
-# immortalwrt_23.05.7_ophub [
-16:00 07/08/2026
+# ImmortalWrt 23.05.7 OpHub
+immortalwrt_23.05.7_ophub [
 immortalwrt:23.05.7 - all-devices-ophub - openclash
 immortalwrt:23.05.7 - all-devices-ophub - openclash-nikki
 immortalwrt:23.05.7 - all-devices-ophub - openclash-fusiontunx
 immortalwrt:23.05.7 - all-devices-ophub - openclash-nikki-passwall
 immortalwrt:23.05.7 - all-devices-ophub - no-tunnel ]
 
+# ImmortalWrt 23.05.7 Opt OpHub
 immortalwrt_23.05.7_opt_ophub [
-04:00 08/08/2026
 immortalwrt:23.05.7 - opt-devices-ophub - openclash
 immortalwrt:23.05.7 - opt-devices-ophub - openclash-nikki
 immortalwrt:23.05.7 - opt-devices-ophub - openclash-fusiontunx
 immortalwrt:23.05.7 - opt-devices-ophub - openclash-nikki-passwall
 immortalwrt:23.05.7 - opt-devices-ophub - no-tunnel ]
+
+# Dashboard Main Scheduler
+main [
+openwrt_25.12.5_official 00:30 28/07/2026
+openwrt_25.12.5_ulo 12:30 28/07/2026
+openwrt_25.12.5_ophub 00:30 29/07/2026
+openwrt_25.12.5_opt_ophub 12:30 29/07/2026
+openwrt_24.10.8_official 00:30 30/07/2026
+openwrt_24.10.8_ulo 12:30 30/07/2026
+openwrt_24.10.8_ophub 00:30 31/07/2026
+openwrt_24.10.8_opt_ophub 12:30 31/07/2026
+openwrt_23.05.6_official 00:30 01/08/2026
+openwrt_23.05.6_ulo 12:30 01/08/2026
+openwrt_23.05.6_ophub 00:30 02/08/2026
+openwrt_23.05.6_opt_ophub 12:30 02/08/2026
+immortalwrt_25.12.1_official 00:30 03/08/2026
+immortalwrt_25.12.1_ulo 12:30 03/08/2026
+immortalwrt_25.12.1_ophub 00:30 04/08/2026
+immortalwrt_25.12.1_opt_ophub 12:30 04/08/2026
+immortalwrt_24.10.6_official 00:30 05/08/2026
+immortalwrt_24.10.6_ulo 12:30 05/08/2026
+immortalwrt_24.10.6_ophub 00:30 06/08/2026
+immortalwrt_24.10.6_opt_ophub 12:30 06/08/2026
+immortalwrt_23.05.7_official 00:30 07/08/2026
+immortalwrt_23.05.7_ulo 12:30 07/08/2026
+immortalwrt_23.05.7_ophub 00:30 08/08/2026
+immortalwrt_23.05.7_opt_ophub 12:30 08/08/2026
+]
