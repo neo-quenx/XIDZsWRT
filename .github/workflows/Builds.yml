@@ -55,7 +55,7 @@ on:
           - Raspberry Pi 2B
           - Raspberry Pi 3B
           - Raspberry Pi 4B
-          - Raspberry Pi 5B
+          - Raspberry Pi 5
           - X86-64
           - X86-Generic
           - Allwinner H5 Orangepi Zero Plus
@@ -165,7 +165,7 @@ jobs:
           )
           
           OPT_OFFICIAL_JSON=$(cat << 'EOJ'
-          { "target": ["Raspberry Pi 1B", "Raspberry Pi 5B", "X86-Generic"] }
+          { "target": ["Raspberry Pi 1B", "Raspberry Pi 5", "X86-Generic"] }
           EOJ
           )
 
@@ -365,7 +365,7 @@ jobs:
                 TARGET_NAME="bcm27xx-bcm2711"; TARGET_SYSTEM="bcm27xx/bcm2711"
                 ARCH_1="arm64"; ARCH_2="aarch64"; ARCH_3="aarch64_cortex-a72"
                 ;;
-              "Raspberry Pi 5B")
+              "Raspberry Pi 5")
                 TARGET_NAME="bcm27xx-bcm2712"; TARGET_SYSTEM="bcm27xx/bcm2712"
                 ARCH_1="arm64"; ARCH_2="aarch64"; ARCH_3="aarch64_cortex-a76"
                 ;;
@@ -395,7 +395,7 @@ jobs:
               "Raspberry Pi 2B") PROFILE="rpi-2" ;;
               "Raspberry Pi 3B") PROFILE="rpi-3" ;;
               "Raspberry Pi 4B") PROFILE="rpi-4" ;;
-              "Raspberry Pi 5B") PROFILE="rpi-5" ;;
+              "Raspberry Pi 5") PROFILE="rpi-5" ;;
               "X86-64" | "X86-Generic") PROFILE="generic" ;;
             esac
           else
