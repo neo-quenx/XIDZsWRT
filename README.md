@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/IMMORTALWRT-FF6B35?style=for-the-badge&logo=openwrt&logoColor=white" alt="ImmortalWrt">
   <br>
   <img src="https://img.shields.io/badge/23.05.7-00B7EB?style=for-the-badge" alt="Os Version">
-  <img src="https://img.shields.io/badge/24.10.7-FF6B35?style=for-the-badge" alt="Os Version">
+  <img src="https://img.shields.io/badge/24.10.8-FF6B35?style=for-the-badge" alt="Os Version">
   <img src="https://img.shields.io/badge/25.12.5-00B7EB?style=for-the-badge" alt="Os Version">
   <br>
   <img src="https://img.shields.io/badge/IMAGEBUILDER-9C27B0?style=for-the-badge&logo=linux&logoColor=white" alt="ImageBuilder">
